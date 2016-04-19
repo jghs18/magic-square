@@ -35,7 +35,7 @@ public class Starter
         }
         for (int x = 0; x < dimension; x++)
         {
-            System.out.println("");
+            System.out.println("");//print blank space
             for (int j = 0; j<dimension; j++)
             {
                 System.out.print(board[x] [j]);   
